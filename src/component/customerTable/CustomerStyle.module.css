@@ -1,0 +1,22 @@
+.active{
+
+    color:rgb(41, 10, 69);
+    padding:7px;
+    background-color: rgb(189, 150, 226);
+    border-radius: 7px;
+    padding: 7px;
+}
+.passive{
+    color:rgb(182, 101, 3);
+    background-color:rgb(243, 243, 210);
+    padding:7px;
+    border-radius: 7px;
+}
+.btnn{
+    color: rgb(1, 40, 141);
+    background-color: rgb(184, 219, 179);
+    padding: 7px;
+    border: 1px dotted blue;
+    border-radius: 4px;
+    cursor: pointer;
+}
